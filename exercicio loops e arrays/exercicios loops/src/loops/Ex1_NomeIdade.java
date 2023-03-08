@@ -1,3 +1,4 @@
+package loops;
 import java.util.Scanner;
 
 import javax.swing.event.SwingPropertyChangeSupport;
