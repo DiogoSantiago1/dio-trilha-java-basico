@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "terminal-testes_4118a1c5"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,12 +23,11 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "terminal-testes_4ce5a62a",
-            "args":[
+            "args": [
                 "Diogo",
                 "Santiago",
                 "17",
                 "1.86"
-
             ]
         },
         {
